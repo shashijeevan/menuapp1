@@ -1,0 +1,14 @@
+E:\Jeevan\Projects\Cordova\mynewapp\platforms\wp8\Bin\Debug\ApplicationIcon.png
+E:\Jeevan\Projects\Cordova\mynewapp\platforms\wp8\Bin\Debug\Background.png
+E:\Jeevan\Projects\Cordova\mynewapp\platforms\wp8\Bin\Debug\com.ionicframework.mynewapp542565.dll
+E:\Jeevan\Projects\Cordova\mynewapp\platforms\wp8\Bin\Debug\com.ionicframework.mynewapp542565.pdb
+E:\Jeevan\Projects\Cordova\mynewapp\platforms\wp8\Bin\Debug\AppManifest.xaml
+E:\Jeevan\Projects\Cordova\mynewapp\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml
+E:\Jeevan\Projects\Cordova\mynewapp\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+E:\Jeevan\Projects\Cordova\mynewapp\platforms\wp8\obj\Debug\App.g.cs
+E:\Jeevan\Projects\Cordova\mynewapp\platforms\wp8\obj\Debug\cordovalib\CordovaView.g.cs
+E:\Jeevan\Projects\Cordova\mynewapp\platforms\wp8\obj\Debug\MainPage.g.cs
+E:\Jeevan\Projects\Cordova\mynewapp\platforms\wp8\obj\Debug\com.ionicframework.mynewapp542565.g.resources
+E:\Jeevan\Projects\Cordova\mynewapp\platforms\wp8\obj\Debug\com.ionicframework.mynewapp542565.dll
+E:\Jeevan\Projects\Cordova\mynewapp\platforms\wp8\obj\Debug\com.ionicframework.mynewapp542565.pdb
+E:\Jeevan\Projects\Cordova\mynewapp\platforms\wp8\obj\Debug\XapCacheFile.xml

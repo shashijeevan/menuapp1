@@ -1,0 +1,46 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {
+            "config.xml": {
+                "parents": {
+                    "/*": [
+                        {
+                            "xml": "<feature name=\"Console\"><param name=\"wp-package\" value=\"DebugConsole\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"Device\"><param name=\"wp-package\" value=\"Device\" /></feature>",
+                            "count": 1
+                        }
+                    ]
+                }
+            },
+            "Properties/WMAppManifest.xml": {
+                "parents": {
+                    "/Deployment/App/Capabilities": [
+                        {
+                            "xml": "<Capability Name=\"ID_CAP_IDENTITY_DEVICE\" />",
+                            "count": 1
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "installed_plugins": {
+        "com.ionic.keyboard": {
+            "PACKAGE_NAME": "{bd59d730-d9e4-11e4-b0f0-338af462df2e}"
+        },
+        "org.apache.cordova.console": {
+            "PACKAGE_NAME": "{bd59d730-d9e4-11e4-b0f0-338af462df2e}"
+        },
+        "org.apache.cordova.device": {
+            "PACKAGE_NAME": "{bd59d730-d9e4-11e4-b0f0-338af462df2e}"
+        }
+    },
+    "dependent_plugins": {}
+}
